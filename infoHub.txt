@@ -1,0 +1,36 @@
+TC_CSE-infoHub
+My Final Year Project
+
+
+HTML5, CSS3,JavaScript
+Bootstrap , 
+Laravel 8
+
+Registration: Admin, Student , Teacher
+
+Admin Login
+Menu
+ADD- 				MANAGE-				EDIT-
+Semester			Semester			Semester
+Courses				Courses				Courses
+Batch				Batch				Batch
+Student				Student				Student
+Teacher				Teacher				Teacher
+Guide Teachers		Guide Teachers		Guide Teachers
+Room				Room				Room
+Routine
+
+
+Student Login
+Dashboard - Skill,Contact,Profile, Courses, Guide Teacher,
+Profile - edit, view
+Teacher Desk- Teacher contact and info
+Blood Bank - Home , Add blood group
+
+
+Teacher Login
+Dashboard- Contact,Profile,
+Profile- edit, view
+Blood Bank - Home
+Menu
+Student Corner- View
